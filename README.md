@@ -12,7 +12,6 @@ We have used the NYC taxi dataset from Kaggle for this project -> https://www.ka
 * Pandas
 * Matplotlib
 * Seaborn
-* datetime
 
 ## VISUALIZATIONS
 ### Plot 1. Distribution of Passenger Count
